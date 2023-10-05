@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, I'm Gonzalo<br><br>
+#### I specialize in turning data into information and information into knowledge. <br><br>As a **Bachelor of Geography** (UC Chile), a **Master's in Geoinformation** from the Universitat Autònoma de Barcelona, and a **Data Scientist** (IT Academy Barcelona Activa), I have been able to develop my career in both Spain and Chile in the analysis and coordination of data-driven projects.
+![I specialize in turning data into information and information into knowledge. <br><br>As a **Bachelor of Geography** (UC Chile), a **Master's in Geoinformation** from the Universitat Autònoma de Barcelona, and a **Data Scientist** (IT Academy Barcelona Activa), I have been able to develop my career in both Spain and Chile in the analysis and coordination of data-driven projects.](https://github.com/Gonzasilva2022)
 
-<!--
-**Gonzasilva2022/Gonzasilva2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I prioritize listening over speaking and I am capable of handling problems with high resolution.<br><br> The journey I have traveled has allowed me to develop strong communication skills, and regardless of where I am, I strive to integrate different points of view to find the best path to a solution.<br><br> I care about people, building teams, and creating a positive work environment
 
-Here are some ideas to get you started:
+Skills: Python / SQL / PowerBi / Excel / Arcgis / Qgis / GeoDa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on The development of my new venture in Data Analytics leverages my recent training in Data Science. It involves integrating the realms of Artificial Intelligence, Big Data, and information visualization through platforms like PowerBi 
+- 👯 I’m looking to collaborate on Development of data-driven projects, tips, and general experiences related to data-driven projects, including geoinformation. 
+- 🤔 I’m looking for help with Innovation in the field of machine learning and Big Data, as they are constantly evolving 
+- 💬 Ask me about Services in data analytics, geomarketing, among others. We can also discuss Geography, entrepreneurship, data analysis. And why not talk about sports like tennis or music, why not 
+- 📫 How to reach me: Contact me directly via email at gonzalo.silva.robledo@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Gonzasilva2022)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gonzasilva//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Gonzasilva2022)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Gonzasilva2022&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Gonzasilva2022)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/Gonzasilva2022)  
