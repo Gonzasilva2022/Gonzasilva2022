@@ -1,4 +1,4 @@
-![Tarjeta GitHub](https://github.com/Gonzasilva2022
+![tarjeta_gitHub](https://github.com/Gonzasilva2022
 /imagenes/raw/main/images/tarjeta%20github.png)
 
 
