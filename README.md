@@ -13,7 +13,8 @@ Skills: Python / Machine learning / SQL / PowerBi / Excel / Arcgis / Qgis / GeoD
 - 📫 How to reach me: Contact me directly via email at<br>gonzalo.silva.robledo@gmail.com
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/Gonzasilva2022) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/Gonzasilva2022)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Gonzasilva2022) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gonzasilva//)  
 
 
