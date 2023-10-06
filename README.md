@@ -12,7 +12,7 @@ Skills: Python / Machine learning / SQL / PowerBi / Excel / Arcgis / Qgis / GeoD
 - 💬 Ask me about Services in data analytics, geomarketing, among others. We can also discuss Geography, entrepreneurship, data analysis. And why not talk about sports like tennis or music, why not?
 - 📫 How to reach me: Contact me directly via email at:<br>gonzalo.silva.robledo@gmail.com
 
-[![github](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/Gonzasilva2022){:height="20px"}
+[![github](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/Gonzasilva2022){:height="10px"}
 
 
 [![github](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/Gonzasilva2022)
