@@ -18,6 +18,10 @@ Skills: Python / Machine learning / SQL / PowerBi / Excel / Arcgis / Qgis / GeoD
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30">
 </a>
 
+<a href="https://www.linkedin.com/in/gonzasilva/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30">
+</a>
+
 [![github](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/Gonzasilva2022){:height="10px"}
 
 
