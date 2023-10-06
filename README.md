@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm Gonzalo<br>
 
-*I prioritize listening over speaking and I am capable of handling problems with high resolution.<br> The journey I have traveled has allowed me to develop strong communication skills, and regardless of where I am, I strive to integrate different points of view to find the best path to a solution.<br><br> I care about people, building teams, and creating a positive work environment*
+*I prioritize listening over speaking and I am capable of handling problems with high resolution.<br> The journey I have traveled has allowed me to develop strong communication skills, and regardless of where I am, I strive to integrate different points of view to find the best path to a solution.<br> I care about people, building teams, and creating a positive work environment*
 
 Skills: Python / Machine learning / SQL / PowerBi / Excel / Arcgis / Qgis / GeoDa
 
