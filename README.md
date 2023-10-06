@@ -5,7 +5,7 @@
 
 ### Skills: Python / Machine learning / SQL / PowerBi / Excel / Arcgis / Qgis / GeoDa
 
-- 😄  I specialize in turning data into information and information into knowledge. <br><br>As a **Bachelor of Geography** (UC Chile), a **Master's in Geoinformation** from the Universitat Autònoma de Barcelona, and a **Data Scientist** (IT Academy Barcelona Activa), I have been able to develop my career in both Spain and Chile in the analysis and coordination of data-driven projects.
+- 😄  I specialize in turning data into information and information into knowledge. As a **Bachelor of Geography** (UC Chile), a **Master's in Geoinformation** from the Universitat Autònoma de Barcelona, and a **Data Scientist** (IT Academy Barcelona Activa), I have been able to develop my career in both Spain and Chile in the analysis and coordination of data-driven projects.
 - 🔭 I’m currently working on The development of my new venture in Data Analytics leverages my recent training in Data Science. It involves integrating the realms of Artificial Intelligence, Big Data, and information visualization through platforms like PowerBi 
 - 👯 I’m looking to collaborate on development of data-driven projects, tips, and general experiences related to data-driven projects, including geoinformation. 
 - 🤔 I’m looking for help with innovation in the field of machine learning and Big Data, as they are constantly evolving 
