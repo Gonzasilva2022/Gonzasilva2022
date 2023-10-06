@@ -10,7 +10,8 @@ Skills: Python / Machine learning / SQL / PowerBi / Excel / Arcgis / Qgis / GeoD
 - 👯 I’m looking to collaborate on development of data-driven projects, tips, and general experiences related to data-driven projects, including geoinformation. 
 - 🤔 I’m looking for help with innovation in the field of machine learning and Big Data, as they are constantly evolving 
 - 💬 Ask me about Services in data analytics, geomarketing, among others. We can also discuss Geography, entrepreneurship, data analysis. And why not talk about sports like tennis or music, why not 
-- 📫 How to reach me: Contact me directly via email at gonzalo.silva.robledo@gmail.com 
+- 📫 How to reach me: Contact me directly via email at<br>gonzalo.silva.robledo@gmail.com
+- 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Gonzasilva2022) 
