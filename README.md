@@ -16,8 +16,4 @@ Skills: Python / Machine learning / SQL / PowerBi / Excel / Arcgis / Qgis / GeoD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Gonzasilva2022)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Gonzasilva2022&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Gonzasilva2022)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/Gonzasilva2022)  
