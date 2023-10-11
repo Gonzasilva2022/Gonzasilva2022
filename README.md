@@ -1,7 +1,7 @@
 ![Tarjeta GitHub](https://raw.githubusercontent.com/Gonzasilva2022/imagenes/main/tarjeta_github.png)
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Gonzasilva2022)
+
 
 ### Hi there 👋
 #### I'm Gonzalo<br>
