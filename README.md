@@ -2,8 +2,7 @@
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Gonzasilva2022
-)
+![Profile views](https://komarev.com/ghpvc/?username=Gonzasilva2022)
 
 ### Hi there 👋
 #### I'm Gonzalo<br>
